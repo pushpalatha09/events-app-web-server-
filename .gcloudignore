@@ -1,0 +1,16 @@
+
+de_modules
+logs
+*.log
+npm-debug.log*
+.nyc_output
+.git
+.gitignore
+node_modules
+logs
+*.log
+npm-debug.log*
+.nyc_output
+.git
+.gitignore
+
